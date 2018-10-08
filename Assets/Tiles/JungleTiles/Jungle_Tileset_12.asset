@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Jungle_Tileset_12
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300120, guid: 3b30003999f7c419b878b6e3e3948812, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.47554514, g: 0.30860624, b: 0.6886792, a: 1}
   m_Transform:
     e00: 1
     e01: 0
